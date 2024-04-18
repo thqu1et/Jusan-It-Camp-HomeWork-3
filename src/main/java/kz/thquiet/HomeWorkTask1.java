@@ -2,8 +2,8 @@ package kz.thquiet;
 
 import java.util.Scanner;
 
-public class HomeWork {
-    static Scanner scanner = new Scanner(System.in);
+public class HomeWorkTask1 {
+    final static Scanner scanner = new Scanner(System.in);
     public static void main( String[] args ) {
         int attempt = 3;
         int min = 1;
@@ -24,6 +24,7 @@ public class HomeWork {
         if (attempt == 0) {
             System.out.println("You lose in the game");
         }
+        scanner.close();
     }
     private static boolean checkNumber(int randomNumber, int number) {
         if (randomNumber == 0 && number == 0) {
