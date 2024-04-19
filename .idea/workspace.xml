@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bf23e7-e2a7-42f2-8fad-d8654274f200" name="Changes" comment="First task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/thquiet/HomeWorkTask2.java" afterDir="false" />
+    <list default="true" id="64bf23e7-e2a7-42f2-8fad-d8654274f200" name="Changes" comment="second task is not completed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kz/thquiet/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kz/thquiet/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/thquiet/HomeWorkTask1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   "keyToString": {
     "Application.HomeWork.executor": "Run",
     "Application.HomeWorkTask2.executor": "Debug",
+    "Application.Task3.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,7 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeWorkTask2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="HomeWorkTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kz.thquiet.HomeWorkTask1" />
       <module name="HomeWorkJusanThird" />
@@ -91,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kz.thquiet.Task3" />
+      <module name="HomeWorkJusanThird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.thquiet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.HomeWorkTask2" />
         <item itemvalue="Application.HomeWorkTask1" />
       </list>
@@ -114,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713463111731</updated>
-      <workItem from="1713463112806" duration="5615000" />
+      <workItem from="1713463112806" duration="8426000" />
     </task>
     <task id="LOCAL-00001" summary="First task">
       <option name="closed" value="true" />
@@ -124,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713466067019</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second task is not completed">
+      <option name="closed" value="true" />
+      <created>1713469364143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713469364143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First task" />
-    <option name="LAST_COMMIT_MESSAGE" value="First task" />
+    <MESSAGE value="second task is not completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="second task is not completed" />
   </component>
 </project>
